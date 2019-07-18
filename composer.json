@@ -1,5 +1,5 @@
 {
-    "name": "php/aes",
+    "name": "kq/aes",
     "description": "php aes encrypt",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Aes\\": "src/"
+            "Kq\\Aes\\": "src/"
         }
     }
 }

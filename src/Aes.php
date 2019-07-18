@@ -1,5 +1,5 @@
 <?php
-namespace Aes;
+namespace Kq\Aes;
 
 class Aes {
 

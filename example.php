@@ -1,7 +1,7 @@
 <?php
 
 require_once(__DIR__.'/src/Aes.php');
-use Aes\Aes;
+use Kq\Aes;
 $test = new Aes('key');
 
 $en = $test->encrypt('hahaha');
