@@ -15,7 +15,6 @@ class Aes {
     /**
      *
      * @param string $string 需要加密的字符串
-     * @param string $key 密钥
      * @return string
      */
     public function encrypt($string)
@@ -28,7 +27,6 @@ class Aes {
 
     /**
      * @param string $string 需要解密的字符串
-     * @param string $key 密钥
      * @return string
      */
     public function decrypt($string)
