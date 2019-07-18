@@ -1,0 +1,19 @@
+{
+    "name": "php/aes",
+    "description": "php aes encrypt",
+    "authors": [
+        {
+            "name": "kq"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aes\\": "src/"
+        }
+    }
+}
+
